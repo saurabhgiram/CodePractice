@@ -25,3 +25,16 @@ class pattern {
 		}
 	}
 }
+
+
+/*
+
+   * 
+ * * * 
+* * * * * 
+
+https://www.geeksforgeeks.org/printing-triangle-pattern-in-java/?ref=lbp
+
+
+*/
+
